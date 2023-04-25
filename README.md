@@ -37,11 +37,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello-world <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+Hello-world is a project I made for the purpose of familiarizing myself with the use of lints and the GitHub flow.
 
 ## 🛠 Built With <a name="built-with"></a>
 
