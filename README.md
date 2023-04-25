@@ -62,11 +62,11 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Alfred Peter Makongoro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@badger-99](https://github.com/badger-99)
+- Twitter: [@alpeter91](https://twitter.com/alpeter91)
+- LinkedIn: [Alfred Makongoro](https://linkedin.com/in/alfred-makongoro-7b41a0270)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
