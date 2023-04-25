@@ -50,9 +50,10 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Server</summary>
+  <summary>Frontend</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
