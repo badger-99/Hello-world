@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -55,12 +46,11 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 Hello-world <a name="about-project"></a>
 
-Hello-world is a project I made for the purpose of familiarizing myself with the use of lints and the GitHub flow.
+Hello-world is a project from the Microverse full-stack program. It's aim is to help me get aquainted with the use of lints and the GitHub flow.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -69,22 +59,8 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -94,9 +70,7 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[HTML_and_CSS_linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +80,7 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- This project does not hace a live demo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,9 +92,15 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 
 To get a local copy up and running, follow these steps.
 
+- Clone this project.
+- Open it in VS code.
+- Deploy it on a browser using a live-server plug-in.
+
 ### Prerequisites
 
-In order to run this project you need:
+In order to add this project to your repo you need:
+
+<a href="https://github.com/microverseinc/linters-config/tree/master/html-css">HTML and CSS linters</a>
 
 <!--
 Example command:
@@ -134,6 +114,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
+https://github.com/badger-99/Hello-world.git
 <!--
 Example commands:
 
@@ -145,7 +126,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+This project doesn't need to be installed.
 
 <!--
 Example command:
@@ -158,7 +139,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+The completed project doesn't have any practical use, but feel free to clone it and see how it's been put together.
 
 <!--
 Example command:
@@ -170,7 +151,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+There are no tests to run.
 
 <!--
 Example command:
@@ -182,7 +163,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project by using VS-code and injecting it to a browser through a local live server.
 
 <!--
 Example:
@@ -198,19 +179,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Alfred Peter Makongoro**
 
 - GitHub: [@badger-99](https://github.com/badger-99)
 - Twitter: [@alpeter91](https://twitter.com/alpeter91)
 - LinkedIn: [Alfred Makongoro](https://linkedin.com/in/alfred-makongoro-7b41a0270)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,9 +193,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[no features will be added]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +203,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/badger-99/Hello-world/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,7 +213,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, please give it a star 🤓
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,23 +223,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank Microverse for facillitating this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
