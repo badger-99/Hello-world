@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<<<<<<< HEAD
-=======
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -38,7 +36,6 @@ After you're finished please remove all the comments and instructions!
 
 <!-- TABLE OF CONTENTS -->
 
->>>>>>> parent of 0fe1952 (Update README.md)
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -70,9 +67,6 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<<<<<<< HEAD
-  <summary>Frontend</summary>
-=======
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
@@ -81,15 +75,12 @@ Hello-world is a project I made for the purpose of familiarizing myself with the
 
 <details>
   <summary>Server</summary>
->>>>>>> parent of 0fe1952 (Update README.md)
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
-<<<<<<< HEAD
-=======
 <details>
 <summary>Database</summary>
   <ul>
@@ -205,7 +196,6 @@ Example:
 
 <!-- AUTHORS -->
 
->>>>>>> parent of 0fe1952 (Update README.md)
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
@@ -286,10 +276,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-<<<<<<< HEAD
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> parent of 0fe1952 (Update README.md)
